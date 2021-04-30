@@ -13,8 +13,8 @@
 
 <p align="center">
   Sou <strong>administrador de dados - MSSQL</strong> e <strong>Estudante de Engenharia da Computação</strong>.<br />
-Estou perfeiçoando minhas habilidades em<strong>JavaScript</strong>
-e disponizarei todos os <strong>projetos</strong> que fizer nos<strong>cursos - rocketseat,DevMedia, curso em vídeo, Udemy ...</strong>.
+Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
+e disponizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - rocketseat,DevMedia, curso em vídeo, Udemy ...</strong>.
 </p>
 
 <p align="center">
@@ -30,10 +30,11 @@ e disponizarei todos os <strong>projetos</strong> que fizer nos<strong>cursos - 
 
 <p align="center">
 
-  <a href="https://api.whatsapp.com/send?phone=5511983420449/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sidneymarcelofranco/"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5511983420449/" alt="Whatsapp">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
   <a href="https://www.instagram.com/sidneymarcelofranco/" alt="Instagram">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sidneymarcelofranco/"/></a>
+
   
   <a href="https://www.facebook.com/sidneymarcelofranco/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/sidneymarcelofranco/"/></a>
