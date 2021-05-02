@@ -24,23 +24,19 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 <p align="center">
   Kknowledge: <strong>MySQL, Javascript, NodeJS, Node-Red, Flutter, C#, Git, GitHub.</strong>
 </p>
+
 ## Contact
 
 <p align="center">
-
   <a href="https://api.whatsapp.com/send?phone=5511983420449/" alt="Whatsapp">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>  
   <a href="https://www.instagram.com/sidneymarcelofranco/" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/sidneymarcelofranco/"/></a>
-
-  
   <a href="https://www.facebook.com/sidneymarcelofranco/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/sidneymarcelofranco/"/></a>
- 
- 
- <a href="https://www.linkedin.com/in/sidney-marcelo-franco-823ab0a3/" alt="Linkedin">
+  <a href="https://www.linkedin.com/in/sidney-marcelo-franco-823ab0a3/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-marcelo-franco-823ab0a3/" /></a>
-</p>  
+</p>
 
 ## Technologies & Tools
 
