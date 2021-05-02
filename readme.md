@@ -22,7 +22,7 @@ e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos
 </p>
 
 <p align="center">
-  Kknowledge: <strong>MySQL, Javascript, NodeJS, Node-Red, Flutter, C#, Git, GitHub.</strong>
+  Knowledge: <strong>MySQL, Javascript, NodeJS, Node-Red, Flutter, C#, Git, GitHub.</strong>
 </p>
 
 ## Contact
