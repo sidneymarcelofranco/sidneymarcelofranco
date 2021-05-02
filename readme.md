@@ -14,7 +14,7 @@
 <p align="center">
   Sou <strong>administrador de dados - MSSQL</strong> e <strong>Estudante de Engenharia da Computação</strong>.<br />
 Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
-e disponizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, DevMedia, Curso em Vídeo, Udemy ...</strong>.
+e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, DevMedia, Curso em Vídeo, Udemy ...</strong>.
 </p>
 
 <p align="center">
@@ -24,9 +24,7 @@ e disponizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos -
 <p align="center">
   Kknowledge: <strong>MySQL, Javascript, NodeJS, Node-Red, Flutter, C#, Git, GitHub.</strong>
 </p>
-<p align="center">
-  Contact: 
-</p>
+## Contact
 
 <p align="center">
 
@@ -38,8 +36,9 @@ e disponizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos -
   
   <a href="https://www.facebook.com/sidneymarcelofranco/" alt="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=for-the-badge&logo=facebook&logoColor=white&link=https://www.facebook.com/sidneymarcelofranco/"/></a>
-  
-  <a href="https://www.linkedin.com/in/sidney-marcelo-franco-823ab0a3/" alt="Linkedin">
+ 
+ 
+ <a href="https://www.linkedin.com/in/sidney-marcelo-franco-823ab0a3/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sidney-marcelo-franco-823ab0a3/" /></a>
 </p>  
 
@@ -60,7 +59,7 @@ e disponizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos -
 
 </p>
 
-## ⭐ GitHub Stats
+## GitHub Stats
 
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=sidneymarcelofranco&show_icons=true&theme=tokyonight&line_height=27">
