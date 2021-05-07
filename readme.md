@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-## <h2> Olá seja bem-vindo(a)!</h2>
+## <h2> Hello, welcome!</h2>
 </span>
 
 <div align="center">
@@ -12,9 +12,9 @@
 
 
 <p align="center">
-  Sou <strong>administrador de dados - MSSQL</strong> e <strong>Estudante de Engenharia da Computação</strong>.<br />
-Estou aperfeiçoando minhas habilidades em <strong>JavaScript</strong>
-e disponilizarei todos os <strong>projetos</strong> que fizer nos <strong>cursos - RocketSeat, DevMedia, Curso em Vídeo, Udemy ...</strong>.
+  I am a <strong> Student of Computer Engineering </strong> and I currently work as a data administrator <br/>
+I am perfecting my <strong> JavaScript </strong> skills
+and I’ll make all <strong> projects </strong> I make available in the courses - <strong> RocketSeat, DevMedia, Curso em Video, Udemy ... </strong>.
 </p>
 
 <p align="center">
