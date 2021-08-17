@@ -12,18 +12,18 @@
 
 
 <p align="center">
-  I am a <strong> Student of Computer Engineering </strong> and I currently work as a data administrator <br/>
-I am perfecting my <strong> JavaScript </strong> skills
-and I’ll make all <strong> projects </strong> I make available in the courses - <strong> RocketSeat, DevMedia, Curso em Video, Udemy ... </strong>.
-</p>
+  
+  <strong> Formado em Engenharia da computação, há 8 anos atuo como administrador/arquiteto de dados e também na criação de Web services REST FULL com NodeJS. Utilizando dos  princípios do SOLID, TDD e Clean Architecture. No banco de dados, além da arquitetura, desenvolvo schedules, estratégias de backup, rotinas de manutenção, gestão de acesso, procedures, functions e triggers. </strong></p>
+  
+  <p align="center">
+  
+  <strong> Graduated in Work Engineering, for 8 years I have been working as a data administrator / architect and also creating REST FULL Web services with NodeJS. Using the principles of SOLID, TDD and Clean Architecture. In the database, in addition to architecture, I develop schedules, backup strategy, maintenance routines, access management, procedures, functions and triggers. </strong></p>
+  
 
 <p align="center">
-  Hability: <strong>Sql Server, MongoDB, CSS, HTML.</strong>
+  Hability: <strong>Sql Server, Jest, JavaScript, NodeJS, Typescript, Sequelize, MongoDB, MySQL, Git, CSS, HTML.</strong>
 </p>
 
-<p align="center">
-  Knowledge: <strong>MySQL, Javascript, NodeJS, Node-Red, Flutter, C#, Git, GitHub.</strong>
-</p>
 
 ## Contact
 
