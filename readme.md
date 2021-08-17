@@ -17,7 +17,7 @@
   
   <p align="center">
   
-  <strong> Graduated in Work Engineering, for 8 years I have been working as a data administrator / architect and also creating REST FULL Web services with NodeJS. Using the principles of SOLID, TDD and Clean Architecture. In the database, in addition to architecture, I develop schedules, backup strategy, maintenance routines, access management, procedures, functions and triggers. </strong></p>
+  <strong> Graduated in Computer engineering, for 8 years I have been working as a data administrator / architect and also creating REST FULL Web services with NodeJS. Using the principles of SOLID, TDD and Clean Architecture. In the database, in addition to architecture, I develop schedules, backup strategy, maintenance routines, access management, procedures, functions and triggers. </strong></p>
   
 
 <p align="center">
