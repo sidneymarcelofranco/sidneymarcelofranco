@@ -13,7 +13,24 @@
 
 <p align="center">
   
-  <strong> Formado em Engenharia da computação, há 8 anos atuo como administrador/arquiteto de dados e também na criação de Web services REST FULL com NodeJS. Utilizando dos  princípios do SOLID, TDD e Clean Architecture. No banco de dados, além da arquitetura, desenvolvo schedules, estratégias de backup, rotinas de manutenção, gestão de acesso, procedures, functions e triggers. </strong></p>
+  <strong> Formado em Engenharia da computação, há 8 anos atuando como administrador/arquiteto de dados e
+na migração/criação de Web services arquitetura REST, nos últimos ano líder de equipe de BD e Web Services.
+
+Serviços prestados:
+Controle do efetivo da Polícia Militar somando atualmente mais de 80.000 integrantes ativos no Estado de São Paulo;
+Modelagem da base de dados de grandes sistemas na PMESP;
+Participações de reuniões com o cliente para análise de requisitos;
+Aperfeiçoamento e recriação de tabelas;
+Criação/manutenção e melhora a performance de consultas;
+Alterações de grande volume de registros em ambientes de produção de alta disponibilidade e criticidade;
+Desenvolvimento de schedules, estratégias de backup, rotinas de manutenção, gestão de acesso, procedures, functions e triggers, criação de índices clusterizados ou não clusterizados;
+Controle de acesso as instancias de BD, schemas e tabelas.;
+Supervisão das rotinas de manutenção;
+Importação e exportação de dados;
+Desenvolvimento de APIs Back-End em NodeJS;
+Conhecimento de BD não relacionais;
+Principais Habilidades:
+Sql Server, MongoDB, MySQL, Git, JavaScript, NodeJS, Typescript, Sequelize, Jest, CSS, HTML. </strong></p>
   
   <p align="center">
   
