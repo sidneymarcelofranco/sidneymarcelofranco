@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-## <h2> Hello, welcome!</h2>
+##  <h3>Computer Engineer | T-SQL | Power BI | C# | Java Script</h3>
 </span>
 
 <div align="center">
@@ -13,32 +13,47 @@
 
 <p align="center">
   
-  <strong> Formado em Engenharia da computação, há 8 anos atuando como administrador/arquiteto de dados e
-na migração/criação de Web services arquitetura REST, nos últimos ano líder de equipe de BD e Web Services.
+  <h3> Engenheiro da Computação pela Univesp.</h3>
 
-Serviços prestados:
-Controle do efetivo da Polícia Militar somando atualmente mais de 80.000 integrantes ativos no Estado de São Paulo;
-Modelagem da base de dados de grandes sistemas na PMESP;
-Participações de reuniões com o cliente para análise de requisitos;
-Aperfeiçoamento e recriação de tabelas;
-Criação/manutenção e melhora a performance de consultas;
-Alterações de grande volume de registros em ambientes de produção de alta disponibilidade e criticidade;
-Desenvolvimento de schedules, estratégias de backup, rotinas de manutenção, gestão de acesso, procedures, functions e triggers, criação de índices clusterizados ou não clusterizados;
-Controle de acesso as instancias de BD, schemas e tabelas.;
-Supervisão das rotinas de manutenção;
-Importação e exportação de dados;
-Desenvolvimento de APIs Back-End em NodeJS;
-Conhecimento de BD não relacionais;
-Principais Habilidades:
-Sql Server, MongoDB, MySQL, Git, JavaScript, NodeJS, Typescript, Sequelize, Jest, CSS, HTML. </strong></p>
+<h2>Experiência</h2>
+Liderança em gestão de equipes utilizando Scrum e 
+ferramentas de gestão ágil TFS e Jira Software.
+
+Banco de Dados SQL Server e MongoDB. 
+Modelagem de dados: conceitual, lógica e física. 
+Abordagem relacional OLTP. 
+Normalização das estruturas de dados. 
+Experiência com Ferramenta CASE (erwin Datamodeler, Power Design).
+Avaliação de modelos de dados.
+Técnicas de engenharia reversa para criação e atualização de modelos de dados. 
+Linguagem de consulta estruturada (T-SQL). 
+Propriedades de banco de dados: atomicidade, consistência, isolamento e durabilidade - ACID. 
+
+Data Analyst
+Business intelligence (BI) com Microsoft Power BI
+Linguagem M
+Linguagem DAX
+Storytelling com dados
+Conceitos de OLAP e suas operações. 
+Conceitos de data warehouse. 
+Integração dos dados (ETL, Transferência de Arquivos e Integração via Base de Dados). 
+Levantamento, análise e gerenciamento de requisitos. 
+Mapeamento e carga de diversas fontes de dados.
+Manipulação de dados em Banco de Dados estruturado e não estruturado
+Extração de dados de fontes de dados como planilhas, arquivos de textos e outros.
+Construção de relatórios e Dashboard interativo. 
+Modelagem dimensional (Star Schema and snowflake).
+
+Governança de Dados e Metadados
+Qualidade de dados e gestão de dados mestres e de referência. 
+Bancos multidimensionais e grafos. 
+Lei Geral de Proteção de Dados. 
+Classificação de informações. </strong></p>
   
-  <p align="center">
-  
-  <strong> Graduated in Computer engineering, for 8 years I have been working as a data administrator / architect and also creating REST FULL Web services with NodeJS. Using the principles of SOLID, TDD and Clean Architecture. In the database, in addition to architecture, I develop schedules, backup strategy, maintenance routines, access management, procedures, functions and triggers. </strong></p>
-  
+ 
 
 <p align="center">
-  Hability: <strong>Sql Server, Jest, JavaScript, NodeJS, Typescript, Sequelize, MongoDB, MySQL, Git, CSS, HTML.</strong>
+  Hability: <strong>| Sql Server | MongoDB | Power BI | C# | Java Script |</strong>
 </p>
 
 
