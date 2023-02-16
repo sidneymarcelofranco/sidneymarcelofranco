@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-##  <h3>Computer Engineer | T-SQL | C# | Java Script | Power BI |</h3>
+##  <h3>Computer Engineer | T-SQL | Python | Power BI |</h3>
 </span>
 
 <div align="center">
@@ -16,39 +16,39 @@
   <h3> Engenheiro da Computação pela Univesp.</h3>
 
 <h2>Experiência</h2>
-Liderança em gestão de equipes utilizando Scrum e 
-ferramentas de gestão ágil TFS e Jira Software.
+ADMINISTRADOR DE DADOS, POLICIA MILITAR DO ESTADO DE SÃO PAULO
+•	Lidero time de desenvolvimento de consultas e procedures em T-SQL. Desenvolvimento e análise de performance de queries em T-SQL para utilização direta em C# e através de API Rest || Restfull.
+•	Participo de levantamentos de requisitos, modelagem de dados e documentação em SGDB SqlServer e MongoDB.
+•	Desenvolvimento e manutenção de Store Procedures.
+•	Manutenção de ambiente de desenvolvimento MS-SqlServer 2008 a 2012. Processo de carga automatizado, verificação de indicadores de banco de dados (espaço, integridade, backup)
+•	Atividades de manutenção de dados em produção (limpeza e/ou expurgo de registros).
+•	Fui instrutor EAD e presencial nos cursos de Formação de Sargentos, na disciplina de tecnologia da informação.
+•	Desenvolvemos automações em Python para atividades de rotina em banco de dados.
+•	Modelagem de dados com foco em NoSql SGDB MongoDB, como foco em boas práticas em modelagem NoSql e diferenças entre modelagem relacional e não relacional.
 
-Banco de Dados SQL Server e MongoDB. 
-Modelagem de dados: conceitual, lógica e física. 
-Abordagem relacional OLTP. 
-Normalização das estruturas de dados. 
-Experiência com Ferramenta CASE (erwin Datamodeler, Power Design).
-Avaliação de modelos de dados.
-Técnicas de engenharia reversa para criação e atualização de modelos de dados. 
-Linguagem de consulta estruturada (T-SQL). 
-Propriedades de banco de dados: atomicidade, consistência, isolamento e durabilidade - ACID. 
+CONSULTOR DE DADOS, DGCORP
+•	Colaboro em projetos de migração de ferramenta de modelagem de dados erwin DM (upgrade de versão ou mudança de Data Modeler). Nestes projetos de migra-ção utilizei dos conhecimentos em linguagem de programação C#, para automatizar o processo e criar validações para garantir a assertividade do import da ferramenta.
+•	Colaboro como consultor e assistente em projeto de aperfeiçoamento de processos de modelagem de dados e metodologias ágeis. Participando e auxiliando em palestras com o foco em Gestão de dados, governança de dados e esteira de desenvolvimento.
+•	Fiz parte de processo de POC de ferramenta de governança de dados/modelagem de dados erwin DI, erwin DM e erwin Mart Server, com implementação em nuvem (GCP e AWS).  Instalações em ambiente Windows e Linux.
+•	Participação de migração de um processos para o Jira software Cloud.
 
-Data Analyst
-Business intelligence (BI) com Microsoft Power BI
-Linguagem M
-Linguagem DAX
-Storytelling com dados
-Conceitos de OLAP e suas operações. 
-Conceitos de data warehouse. 
-Integração dos dados (ETL, Transferência de Arquivos e Integração via Base de Dados). 
-Levantamento, análise e gerenciamento de requisitos. 
-Mapeamento e carga de diversas fontes de dados.
-Manipulação de dados em Banco de Dados estruturado e não estruturado
-Extração de dados de fontes de dados como planilhas, arquivos de textos e outros.
-Construção de relatórios e Dashboard interativo. 
-Modelagem dimensional (Star Schema and snowflake).
+HABILIDADES
+•	T-SQL
+•	Modelagem de dados (Erwin DM)
+•	Power BI
+•	C#
+•	Python
+•	Jira Software
+•	Governança de dados	
+•	Trabalho em equipe
+•	Educação e cordialidade
+•	Boa comunicação
+•	Gestão do tempo
+•	Liderança
+•	Resiliência
 
-Governança de Dados e Metadados
-Qualidade de dados e gestão de dados mestres e de referência. 
-Bancos multidimensionais e grafos. 
-Lei Geral de Proteção de Dados. 
-Classificação de informações. </strong></p>
+OUTRAS ATIVIDADES
+No meu tempo livre gosto de praticar exercícios como: Musculação, futebol e vôlei de praia. Além disto sou músico amador e adoro tocar teclado e cantar.</strong></p>
   
  
 
