@@ -53,7 +53,7 @@ No meu tempo livre gosto de praticar exercícios como: Musculação, futebol e v
  
 
 <p align="center">
-  Hability: <strong>| Sql Server | MongoDB | Power BI | C# | Java Script |</strong>
+  Hability: <strong>| Sql Server | Python | Power BI |</strong>
 </p>
 
 
