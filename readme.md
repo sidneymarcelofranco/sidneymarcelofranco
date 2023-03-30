@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-##  <h3>Computer Engineer | T-SQL | Python | Power BI |</h3>
+##  <h3>Data Consultant and Python Developer | T-SQL | Python | Power BI |</h3>
 </span>
 
 <div align="center">
