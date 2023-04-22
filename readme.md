@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-##  <h3>Data Consultant and Python Developer | T-SQL | Python | Power BI |</h3>
+##  <h3>[Software & Data Solutions , {skill: [Python, SQL, C#, PowerBI]}]</h3>
 </span>
 
 <div align="center">
@@ -16,23 +16,7 @@
   <h3> Engenheiro da Computação pela Univesp.</h3>
 
 <h2>Experiência</h2>
-ADMINISTRADOR DE DADOS, POLICIA MILITAR DO ESTADO DE SÃO PAULO
-•	Lidero time de desenvolvimento de consultas e procedures em T-SQL. Desenvolvimento e análise de performance de queries em T-SQL para utilização direta em C# e através de API Rest || Restfull.
-•	Participo de levantamentos de requisitos, modelagem de dados e documentação em SGDB SqlServer e MongoDB.
-•	Desenvolvimento e manutenção de Store Procedures.
-•	Manutenção de ambiente de desenvolvimento MS-SqlServer 2008 a 2012. Processo de carga automatizado, verificação de indicadores de banco de dados (espaço, integridade, backup)
-•	Atividades de manutenção de dados em produção (limpeza e/ou expurgo de registros).
-•	Fui instrutor EAD e presencial nos cursos de Formação de Sargentos, na disciplina de tecnologia da informação.
-•	Desenvolvemos automações em Python para atividades de rotina em banco de dados.
-•	Modelagem de dados com foco em NoSql SGDB MongoDB, como foco em boas práticas em modelagem NoSql e diferenças entre modelagem relacional e não relacional.
-
-CONSULTOR DE DADOS, DGCORP
-•	Colaboro em projetos de migração de ferramenta de modelagem de dados erwin DM (upgrade de versão ou mudança de Data Modeler). Nestes projetos de migra-ção utilizei dos conhecimentos em linguagem de programação C#, para automatizar o processo e criar validações para garantir a assertividade do import da ferramenta.
-•	Colaboro como consultor e assistente em projeto de aperfeiçoamento de processos de modelagem de dados e metodologias ágeis. Participando e auxiliando em palestras com o foco em Gestão de dados, governança de dados e esteira de desenvolvimento.
-•	Fiz parte de processo de POC de ferramenta de governança de dados/modelagem de dados erwin DI, erwin DM e erwin Mart Server, com implementação em nuvem (GCP e AWS).  Instalações em ambiente Windows e Linux.
-•	Participação de migração de um processos para o Jira software Cloud.
-
-HABILIDADES
+Experience
 •	T-SQL
 •	Modelagem de dados (Erwin DM)
 •	Power BI
@@ -47,7 +31,7 @@ HABILIDADES
 •	Liderança
 •	Resiliência
 
-OUTRAS ATIVIDADES
+Outher Activities
 No meu tempo livre gosto de praticar exercícios como: Musculação, futebol e vôlei de praia. Além disto sou músico amador e adoro tocar teclado e cantar.</strong></p>
   
  
