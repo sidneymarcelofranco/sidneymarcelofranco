@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-##  <h3>[Software & Data Solutions , {skill: [Python, SQL, C#, PowerBI]}]</h3>
+##  <h3>[ "Software & Data Solutions" , "Python" , "SQL" , "C#"]</h3>
 </span>
 
 <div align="center">
