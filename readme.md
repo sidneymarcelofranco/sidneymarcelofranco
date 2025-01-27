@@ -1,7 +1,7 @@
 <span align="center">
 
 <!-- ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Olá seja bem-vindo(a)!</h2> -->
-##  <h3>[ "Software & Data Solutions" , "Python" , "SQL" , "C#"]</h3>
+##  <h3>Software & Data Solutions</h3>
 </span>
 
 <div align="center">
@@ -13,28 +13,48 @@
 
 <p align="center">
   
-  <h3> Engenheiro da Computação pela Univesp.</h3>
+  <h3> Especialista em Engenharia e Governança de Dados.</h3>
 
 <h2>Experiência</h2>
-Experience
-•	T-SQL
-•	Modelagem de dados (Erwin DM)
-•	Power BI
-•	C#
-•	Python
-•	Jira Software
-•	Governança de dados	
-•	Trabalho em equipe
-•	Educação e cordialidade
-•	Boa comunicação
-•	Gestão do tempo
-•	Liderança
-•	Resiliência
 
-Outher Activities
-No meu tempo livre gosto de praticar exercícios como: Musculação, futebol e vôlei de praia. Além disto sou músico amador e adoro tocar teclado e cantar.</strong></p>
-  
- 
+🚀 **Especialista em Engenharia e Governança de Dados | Airflow | Airbyte | Apache NiFi | SQL Server | MongoDB | Docker | CI/CD | DataOps | Erwin DM | Erwin DIS | Data Hub | OpenMetadata**
+
+📍 São Paulo, Brasil 📧 sidneymarcelofranco@hotmail.com ☎️ (11) 98342-0449
+
+**Resumo Profissional:**  
+Sou um profissional focado em resultados, especializado em engenharia de dados, governança de dados e otimização de processos. Tenho experiência em integração, orquestração de dados e arquiteturas modernas, sempre implementando as melhores práticas de DataOps e governança. Sou especialista em tecnologias como Airflow, Airbyte, Apache NiFi, SQL Server, MongoDB e CI/CD, com foco na construção de soluções escaláveis e seguras. Tenho também forte atuação no uso de ferramentas de modelagem e governança, como Erwin DM e Erwin DIS, para garantir a integridade e qualidade dos dados.
+
+**Experiência Profissional:**
+
+**Dacorp Technology**  
+Consultor | Agosto 2021 - Presente  
+- Liderança de equipes e implementação de soluções de engenharia de dados com foco em CI/CD e DataOps.  
+- Automação de processos de dados utilizando Airflow, Airbyte e Apache NiFi para integração e orquestração.  
+- Desenvolvimento e manutenção de bancos de dados SQL Server e NoSQL, como MongoDB.  
+- Criação e gerenciamento de APIs REST para otimizar fluxos de dados.  
+- Implementação de Docker e Docker Compose para escalabilidade e eficiência.  
+- Uso de Erwin DM e Erwin DIS para modelagem e governança de dados.  
+- Aplicação de Data Hub e OpenMetadata para promover transparência e governança.
+
+**Polícia Militar do Estado de São Paulo**  
+Desenvolvedor TSQL e Python | Janeiro 2013 - Presente  
+- Desenvolvimento e otimização de consultas TSQL e processos ETL com Python.  
+- Implementação de soluções de integração e automação com Airflow e Docker.  
+- Desenvolvimento de aplicativos em C# para integração com sistemas de governança de dados.  
+- Atuação no gerenciamento de projetos com Azure DevOps, promovendo entregas ágeis.
+
+**Educação:**  
+**Bacharelado em Engenharia da Computação**  
+UNIVESP | 2016 - 2021
+
+**Habilidades:**  
+- **Ferramentas de Modelagem e Governança:** Erwin DM, Erwin DIS, OpenMetadata  
+- **Stacks de Dados e Integração:** Airflow, Airbyte, Apache NiFi  
+- **Bancos de Dados:** SQL Server, MongoDB (NoSQL)  
+- **Desenvolvimento e Automação:** Docker, Docker Compose, CI/CD  
+- **Liderança:** Gestão de equipes e projetos de dados  
+- **APIs e Integração:** REST APIs, integração de sistemas
+
 
 <p align="center">
   Hability: <strong>| Sql Server | Python | Power BI |</strong>
