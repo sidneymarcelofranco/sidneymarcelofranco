@@ -47,17 +47,17 @@ Desenvolvedor TSQL e Python | Janeiro 2013 - Presente
 **Bacharelado em Engenharia da Computação**  
 UNIVESP | 2016 - 2021
 
-**Habilidades:**  
-- **Ferramentas de Modelagem e Governança:** Erwin DM, Erwin DIS, OpenMetadata  
-- **Stacks de Dados e Integração:** Airflow, Airbyte, Apache NiFi  
-- **Bancos de Dados:** SQL Server, MongoDB (NoSQL)  
-- **Desenvolvimento e Automação:** Docker, Docker Compose, CI/CD  
-- **Liderança:** Gestão de equipes e projetos de dados  
-- **APIs e Integração:** REST APIs, integração de sistemas
+
 
 
 <p align="center">
-  Hability: <strong>| Sql Server | Python | Power BI |</strong>
+  **Habilidades:**  </strong>
+- **Ferramentas de Modelagem e Governança:** Erwin DM, Erwin DIS, OpenMetadata  </strong>
+- **Stacks de Dados e Integração:** Airflow, Airbyte, Apache NiFi  </strong>
+- **Bancos de Dados:** SQL Server, MongoDB (NoSQL)  </strong>
+- **Desenvolvimento e Automação:** Docker, Docker Compose, CI/CD  </strong>
+- **Liderança:** Gestão de equipes e projetos de dados  </strong>
+- **APIs e Integração:** REST APIs, integração de sistemas</strong>
 </p>
 
 
