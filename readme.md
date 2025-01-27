@@ -50,7 +50,7 @@ UNIVESP | 2016 - 2021
 
 
 
-<p align="center">
+
   **Habilidades:**  </strong>
 - **Ferramentas de Modelagem e Governança:** Erwin DM, Erwin DIS, OpenMetadata
 - **Stacks de Dados e Integração:** Airflow, Airbyte, Apache NiFi
@@ -58,7 +58,7 @@ UNIVESP | 2016 - 2021
 - **Desenvolvimento e Automação:** Docker, Docker Compose, CI/CD
 - **Liderança:** Gestão de equipes e projetos de dados
 - **APIs e Integração:** REST APIs, integração de sistemas
-</p>
+
 
 
 ## Contact
